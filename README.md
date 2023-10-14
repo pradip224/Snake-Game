@@ -1,4 +1,4 @@
-![snake-1](https://github.com/pradip224/Snake-Game/assets/122960934/d8297577-8b19-46df-83fc-6f6653f1d56b)# Classic Snake Game
+## Classic Snake Game
 
 Welcome to the Classic Snake Game, a Java-based implementation of the timeless arcade game "Snake Game." This project aims to recreate the classic gameplay experience and offer a fun, nostalgic journey down memory lane.
 
