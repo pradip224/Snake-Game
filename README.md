@@ -1,8 +1,9 @@
-# Classic Snake Game
+![snake-1](https://github.com/pradip224/Snake-Game/assets/122960934/d8297577-8b19-46df-83fc-6f6653f1d56b)# Classic Snake Game
 
-Welcome to the Classic Snake Game, a Java-based implementation of the timeless arcade game "Snake." This project aims to recreate the classic gameplay experience and offer a fun, nostalgic journey down memory lane.
+Welcome to the Classic Snake Game, a Java-based implementation of the timeless arcade game "Snake Game." This project aims to recreate the classic gameplay experience and offer a fun, nostalgic journey down memory lane.
 
-![Game Screenshot](game_screenshot.png)
+![snake-1](https://github.com/pradip224/Snake-Game/assets/122960934/8a1c514a-d025-4ff7-b57d-d6b658daf4e1)
+
 
 ## Key Features
 
@@ -44,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- [Your Name] - [Your GitHub Profile](https://github.com/yourusername)
+  - PRADIP PATRA - [Your GitHub Profile]([https://github.com/yourusername](https://github.com/pradip224))
 
 ## Acknowledgments
 
@@ -52,6 +53,4 @@ Special thanks to the creators of the original Snake game for inspiring this pro
 
 We hope you enjoy playing the Classic Snake Game. Have fun, and happy coding!
 
----
 
-Feel free to customize this README to include your specific project details, author information, and any additional sections or information you think would be valuable for users and contributors. Don't forget to include a screenshot of your game to provide a visual preview.
