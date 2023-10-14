@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-  - PRADIP PATRA - [Your GitHub Profile]([https://github.com/yourusername](https://github.com/pradip224))
+  - PRADIP PATRA - [https://github.com/pradip224]
 
 ## Acknowledgments
 
